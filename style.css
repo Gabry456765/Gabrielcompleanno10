@@ -1,0 +1,14 @@
+.titoli {
+    text-align: center;
+    color: red;
+}
+.sottotitoli {
+    text-align: center;
+    color: rgb(255, 111, 0);
+}
+.ci {
+    position: relative;top: -400px;
+}
+.co {
+    position: relative; top: -800px;
+}
