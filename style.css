@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
 .titoli {
     text-align: center;
     color: red;
@@ -7,11 +8,113 @@
     color: rgb(255, 111, 0);
 }
 .ci {
-    position: relative;top: -400px;
-}
-.co {
-    position: relative; top: -800px;
+    width: 100%;
+    max-width: 200px;
+    height:auto;
 }
 .freccie {
-    position:relative ;top: -900px;
+    position:relative ;top: -600px;
+    width: 100%;
+    max-width: 512px;
+}
+.v {
+    max-width:400px;
+    height:auto;
+}
+.cio {
+    position: relative;top: -200px;
+    width: 100%;
+    max-width: 180px;
+    height:auto;
+}
+.sottotitolii {
+    text-align: center;
+    color: red;
+    position: relative;top: 300px;
+}
+.titolii {
+    text-align: center;
+    color: red;
+    position: relative;top: -700px;
+}
+.titolii :hover {
+    color: rgb(20, 179, 253);
+}
+.sottotti {
+    color: rgb(255, 111, 0);
+    font-family: 'Lilita One', cursive;
+    font-weight: 300;
+    text-align: center;
+    position: relative;
+    top: -700px;
+    font-size: xx-large;
+}
+.sottottii {
+    color: rgb(255, 111, 0);
+    font-weight: 300;
+    text-align: center;
+    position: relative;
+    top: -700px;
+    font-size: xx-large;
+}
+.xc {
+    color: rgb(255, 111, 0);
+    text-align: center;
+    position: relative;
+    top: -700px;
+}
+#si_no {
+    position: relative;
+    top: -700px;
+    -webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
+    transform: scale(1.5);
+    line-height: 30px;
+}
+.text {
+    position: relative;
+    top: -767px;
+    margin: 40px;
+    left: 30px;
+    width: 40px;
+    color: rgb(255, 111, 0);
+}
+.tixto {
+    margin: 51px;
+    position: relative;
+    top: -847px;
+    width: 40px;
+    left: 30px;
+    color: rgb(255, 111, 0);
+}
+#so_no {
+    position: relative;
+    top: -770px;
+    -webkit-transform: scale(1.5); /* Chrome, Safari, Opera */
+    transform: scale(1.5);
+}
+#invia {
+    border-radius: 10px;
+    position: relative;
+    top: -770px;
+}
+.tr {
+    color: rgb(255, 111, 0);
+    cursor: pointer;
+}
+#xc {
+    color: rgb(255, 111, 0);
+    position: relative;
+    top: -800px;
+    text-align: center;
+}
+#intolleranze {
+    border-radius: 10px;
+    position: relative;
+    top: -780px;
+}
+#h2 {
+    color: rgb(255, 111, 0);
+    position: relative;
+    top: -900px;
+    text-align: center;
 }
